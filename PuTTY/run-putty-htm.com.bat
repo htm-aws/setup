@@ -1,0 +1,1 @@
+start putty.exe -ssh ubuntu@hoangtrongminh.com -i "keypair1.ppk"
